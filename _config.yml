@@ -1,0 +1,14 @@
+title: "Taiba Abid"
+description: "Graduate student in Logic, Computation, & Methodology in CMU"
+author: ""
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-include-cache
+header_pages:
+	- about.md 
