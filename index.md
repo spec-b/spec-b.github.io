@@ -12,7 +12,7 @@ I like to learn.
 - **Condensed Type Theory**   
 - **Category Theory for Bayesian Inference**
 
-## Interests {interests}
+## Interests {#interests}
 - Category Theory
 - Categorical Logic
 - Dependent Type Theory
