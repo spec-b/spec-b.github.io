@@ -1,7 +1,7 @@
 main:
   - title: "Research Interests"
-    url: /#research-interests
+    url: /research-interests/
   - title: "Activities"
-    url: /#activities
+    url: /activities/
   - title: "Projects"
-    url: /#projects
+    url: /projects/
