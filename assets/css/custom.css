@@ -2,3 +2,6 @@ body {
     background: linear-gradient(to bottom, #fff8dc, #ffeb99); /* Light yellow gradient */
 }
 
+.page__title {
+    color: #333333; /* Dark gray, change to any color */
+}
