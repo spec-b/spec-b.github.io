@@ -1,7 +1,8 @@
 ---
-layout: home 
+layout: single 
 title: "Taiba Abid"
 author_profile: false
+header: false
 --- 
 
 ## Hi
