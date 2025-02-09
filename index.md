@@ -8,7 +8,7 @@ author_profile: false
 
 I like to learn. 
 
-## Projects {#projects}
+## Current Projects {#projects}
 - **Condensed Type Theory**   
 - **Category Theory for Bayesian Inference**
 
