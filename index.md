@@ -8,11 +8,11 @@ author_profile: false
 
 I like to learn. 
 
-## Current Projects {#projects}
+## Current Projects
 - **Condensed Type Theory**   
 - **Category Theory for Bayesian Inference**
 
-## Interests {#interests}
+## Interests
 - Category Theory
 - Categorical Logic
 - Dependent Type Theory
