@@ -10,6 +10,10 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+custom_css:
+  - "assets/css/custom.css"
   
 header_pages:
   - about.md 
@@ -26,3 +30,4 @@ sidebar:
     Logic, Type Theory, Formal Epistemology  
     [tabid@andrew.cmu.edu](mailto:tabid@andrew.cmu.edu)
     personal: [taiba3abid@gmail.com](mailto:taiba3abid@gmail.com)
+
