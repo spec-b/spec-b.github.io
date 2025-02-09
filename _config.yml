@@ -17,3 +17,12 @@ header_pages:
 keep_files:
  - git 
 
+sidebar:
+  nav: "main"  # Ensures sidebar navigation works
+  title: "Taiba"
+  #image: "/assets/images/profile.jpg"  # Add your picture here
+  description: |
+    Student at CMU  
+    Logic, Type Theory, Formal Epistemology  
+    [tabid@andrew.cmu.edu](mailto:tabid@andrew.cmu.edu)
+    personal: [taiba3abid@gmail.com](mailto:taiba3abid@gmail.com)
