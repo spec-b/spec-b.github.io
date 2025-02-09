@@ -2,6 +2,7 @@ title: "Taiba Abid"
 description: "Graduate student in Logic, Computation, & Methodology in CMU"
 author: ""
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+baseurl: ""
 url: "https://spec-b.github.io/"
 plugins:
   - jekyll-include-cache
