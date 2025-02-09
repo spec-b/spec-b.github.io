@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: "Taiba Abid"
+#title: "Taiba Abid"
 author_profile: false
 header: false
 --- 
