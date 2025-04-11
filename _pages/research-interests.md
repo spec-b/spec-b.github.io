@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: Research Interests
 permalink: /research-interests/
 ---
