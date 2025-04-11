@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: "About Me"
-permalink: /
+permalink: /about/
 --- 
 
 I'm a graduate student at CMU interested in Logic and Type Theory.
