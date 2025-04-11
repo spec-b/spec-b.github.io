@@ -4,7 +4,13 @@ title: Activities
 permalink: /activities/
 ---
 
-| **Schools** | 
+| **Conferences** | 
+|-------------| 
+| • Progic,Carnegie Mellon University Spring 2025
+  • CFE Workshop on Chance, Credence, Computation, Carnegie Mellon University, Fall 2024  
+  • Indian Conference on Logic and its Applications, IIT Indore, Spring 2023  |
+
+| **Conferences** | 
 |-------------| 
 | • Oregon Programming Languages Summer School, Boston University, Summer 2024  
   • The Univalent School, University of Minnesota, Summer 2024  
