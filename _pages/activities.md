@@ -10,7 +10,7 @@ permalink: /activities/
   • CFE Workshop on Chance, Credence, Computation, Carnegie Mellon University, Fall 2024  
   • Indian Conference on Logic and its Applications, IIT Indore, Spring 2023  |
 
-| **Conferences** | 
+| **Schools** | 
 |-------------| 
 | • Oregon Programming Languages Summer School, Boston University, Summer 2024  
   • The Univalent School, University of Minnesota, Summer 2024  
