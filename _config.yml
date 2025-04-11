@@ -66,6 +66,9 @@ author:
 keep_files:
  - git 
 
+ include:
+  - _pages
+
 sidebar:
   nav: "main"  # Ensures sidebar navigation works
   title: "Taiba"
