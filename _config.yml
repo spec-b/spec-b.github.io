@@ -31,7 +31,7 @@ author:
   location         : "Pittsburgh, PA, USA"
   employer         : "Carnegie Mellon University"
   pubmed           :
-  #googlescholar    : "https://scholar.google.com/citations?user=n9Uqm4wAAAAJ"
+  #googlescholar    : 
   email            : "specbtaiba@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,16 +45,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  #orcid            : "https://orcid.org/0000-0002-8465-8859"
+  #orcid            : 
   pinterest        :
-  #soundcloud       : "unstraight"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #soundcloud       : 
+  stackoverflow    : 
   steam            :
   tumblr           :
-  #twitter          : "@emilyriehl"
+  #twitter          : 
   vine             :
   weibo            :
   xing             :
