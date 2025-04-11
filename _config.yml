@@ -1,4 +1,8 @@
-cbtaibtitle: "Taiba Abid"
+#cbtaibtitle: "Taiba Abid"
+locale                   : "en-US"
+title                    : "About"
+title_separator          : "-"
+name                     : &name "Taiba Abid"
 description: "Graduate student in Logic, Computation, & Methodology in CMU"
 author: ""
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -18,6 +22,46 @@ custom_css:
   
 header_pages:
   - about.md 
+
+# Site Author
+author:
+  name             : "Taiba Abid"
+  #avatar           : "profile.png"
+  bio              : "Graduate Student"
+  location         : "Pittsburgh, PA, USA"
+  employer         : "Carnegie Mellon University"
+  pubmed           :
+  #googlescholar    : "https://scholar.google.com/citations?user=n9Uqm4wAAAAJ"
+  email            : "specbtaiba@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "spec-b"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  #orcid            : "https://orcid.org/0000-0002-8465-8859"
+  pinterest        :
+  #soundcloud       : "unstraight"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  #twitter          : "@emilyriehl"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 
 keep_files:
  - git 
