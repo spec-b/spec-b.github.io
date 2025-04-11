@@ -6,7 +6,7 @@ permalink: /activities/
 
 | **Conferences** | 
 |-------------| 
-| • Progic,Carnegie Mellon University Spring 2025
+| • Progic, The 12th Workshop on Combining Probability and Logic, Carnegie Mellon University Spring 2025
   • CFE Workshop on Chance, Credence, Computation, Carnegie Mellon University, Fall 2024  
   • Indian Conference on Logic and its Applications, IIT Indore, Spring 2023  |
 
