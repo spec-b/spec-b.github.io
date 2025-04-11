@@ -1,6 +1,6 @@
 ---
 layout: archive 
-title: "About Me"
+title: "Taiba"
 permalink: /about/
 --- 
 
