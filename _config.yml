@@ -62,12 +62,14 @@ author:
   wikipedia        :
 
 
-
 keep_files:
  - git 
 
- include:
+include:
   - _pages
+
+encoding: UTF-8
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 sidebar:
   nav: "main"  # Ensures sidebar navigation works
