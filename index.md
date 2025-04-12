@@ -1,6 +1,6 @@
 ---
 layout: single 
-#title: "Taiba Abid"
+title: "Machine Learning Enthusiast and Category Theorist"
 author_profile: true
 header: false
 --- 
