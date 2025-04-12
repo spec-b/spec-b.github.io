@@ -1,10 +1,10 @@
 
 locale                   : "en-US"
-title                    : "Main"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Taiba Abid"
 description: "Graduate student in Logic, Computation, & Methodology at CMU"
-author: ""
+author: "Taiba"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 baseurl: ""
 url: "https://spec-b.github.io/"
