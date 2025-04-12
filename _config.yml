@@ -30,36 +30,9 @@ author:
   bio              : "Graduate Student"
   location         : "Pittsburgh, PA, USA"
   employer         : "Carnegie Mellon University"
-  pubmed           :
-  #googlescholar    : 
   email            : "specbtaiba@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "spec-b"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         :
-  #orcid            : 
-  pinterest        :
-  #soundcloud       : 
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  #twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 keep_files:
