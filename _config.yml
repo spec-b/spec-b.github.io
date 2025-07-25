@@ -27,7 +27,7 @@ header_pages:
 author:
   name             : "Taiba Abid"
   #avatar           : "profile.png"
-  bio              : >
+  bio              : |
                       MS Logic, Computation & Methodology, CMU 
                       Bachelor's in Mathematics, Pondicherry University 
   location         : "Pittsburgh, PA, USA"
